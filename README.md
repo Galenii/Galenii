@@ -6,9 +6,9 @@
 
 Here on my GitHub, you can find:
 
-⚡ Projects: Explore my open-source projects and contributions to the community.
+⚡ **Projects**: Explore my open-source projects and contributions to the community.
 
-🔭 Learnings: Follow my notes, tutorials and studies on various topics.
+🔭 **Learnings**: Follow my notes, tutorials and studies on various topics.
 
-💬 Collaboration: Get in touch to collaborate on projects, exchange ideas or simply chat.
+💬 **Collaboration**: Get in touch to collaborate on projects, exchange ideas or simply chat.
 
