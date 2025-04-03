@@ -2,7 +2,7 @@
 
 💻 I'm a person who has always been involved with technology, I'm currently a developer focusing on FullStack.
 
-🎓 I'm currently in the 4rd semester of Internet Systems, studying at IFSP.
+🎓 I'm currently in the 5rd semester of Internet Systems, studying at IFSP.
 
 Here on my GitHub, you can find:
 
