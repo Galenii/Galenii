@@ -9,7 +9,9 @@ Olá, eu sou o Guilherme Galeni
 Aqui no meu GitHub você encontrará:
 
 ⚡ Projetos – Trabalhos open source e projetos pessoais que mostram minha evolução e aprendizado.
+
 🔭 Estudos – Anotações, experimentos de código e tutoriais sobre diversas tecnologias.
+
 🤝 Colaboração – Estou sempre aberto a trocar ideias e colaborar em projetos. Fique à vontade para entrar em contato!
 
 🔗 LinkedIn: linkedin.com/in/guilherme-galeni-b8919827b
