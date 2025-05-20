@@ -1,14 +1,15 @@
-### I'm Guilherme
+Olá, eu sou o Guilherme Galeni
+💻 Apaixonado por tecnologia, atualmente atuo como desenvolvedor com foco em Back-End.
 
-💻 I'm a person who has always been involved with technology, I'm currently a developer focusing on FullStack.
+🎓 Estou no 5º semestre do curso de Sistemas para Internet no IFSP, aprofundando meus conhecimentos em desenvolvimento web, bancos de dados e engenharia de software.
 
-🎓 I'm currently in the 5rd semester of Internet Systems, studying at IFSP.
+📌 Profissionalmente, estou adquirindo experiência prática na minha função atual como Estagiário Educação Digital - Espaço Maker, onde trabalho com aplicações reais e resolução de problemas tecnológicos.
 
-Here on my GitHub, you can find:
+Aqui no meu GitHub você encontrará:
 
-⚡ **Projects**: Explore my open-source projects and contributions to the community.
+⚡ Projetos – Trabalhos open source e projetos pessoais que mostram minha evolução e aprendizado.
+🔭 Estudos – Anotações, experimentos de código e tutoriais sobre diversas tecnologias.
+🤝 Colaboração – Estou sempre aberto a trocar ideias e colaborar em projetos. Fique à vontade para entrar em contato!
 
-🔭 **Learnings**: Follow my notes, tutorials and studies on various topics.
-
-💬 **Collaboration**: Get in touch to collaborate on projects, exchange ideas or simply chat.
+🔗 LinkedIn: linkedin.com/in/guilherme-galeni-b8919827b
 
