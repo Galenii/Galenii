@@ -4,7 +4,7 @@ Olá, eu sou o Guilherme Galeni
 
 🎓 Estou no 5º semestre do curso de Sistemas para Internet no IFSP, aprofundando meus conhecimentos em desenvolvimento web, bancos de dados e engenharia de software.
 
-📌 Profissionalmente, estou adquirindo experiência prática na minha função atual como Estagiário Educação Digital - Espaço Maker, onde trabalho com aplicações reais e resolução de problemas tecnológicos.
+📌 Profissionalmente, estou adquirindo experiência prática na minha função atual como Estagiário Educação Digital - Espaço Maker do SESI SP, onde trabalho com aplicações reais e resolução de problemas tecnológicos.
 
 Aqui no meu GitHub você encontrará:
 
