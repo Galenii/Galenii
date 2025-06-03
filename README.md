@@ -1,6 +1,6 @@
 Olá, eu sou o  **Guilherme Galeni**
 
-💻 Apaixonado por tecnologia e pelo Sanches, mas casado com Freitas, atualmente atuo como desenvolvedor com foco em Back-End.
+💻 Apaixonado por tecnologia, atualmente atuo como desenvolvedor com foco em Back-End.
 
 🎓 Estou no 5º semestre do curso de Sistemas para Internet no IFSP, aprofundando meus conhecimentos em desenvolvimento web, bancos de dados e engenharia de software.
 
